@@ -1,0 +1,16 @@
+{
+  "name": "discord.js-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "useful and simple discord bot with Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "modelonely",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "simple-json-db": "^1.2.2"
+  }
+}
